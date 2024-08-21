@@ -52,3 +52,4 @@ sniff(filter="tcp", prn=packet_sniff, store=0, count=10)
 
 # Displays the output file's name and location after successful sniffing
 print(f"\nResults saved to: {output_file}")
+
